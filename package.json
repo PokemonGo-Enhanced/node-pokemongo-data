@@ -12,6 +12,9 @@
     "url": "git+https://github.com/PokemonGo-Enhanced/node-pokemongo-data.git"
   },
   "author": "Ruben Vereecken",
+  "contributors": [
+    "Vitaly Aminev <v@makeomatic.ru>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PokemonGo-Enhanced/node-pokemongo-data/issues"
