@@ -14,7 +14,7 @@ describe('test formulas', () => {
     height_m: 0.4252958297729492,
     weight_kg: 8.927674293518066,
     individual_attack: 15,
-    individual_defense: 1,
+    individual_defense: 15,
     individual_stamina: 15,
     cp_multiplier: 0.2557200491428375,
     pokeball: 'ITEM_POKE_BALL',
@@ -44,10 +44,22 @@ describe('test formulas', () => {
     const stats = PokemonData.stats.calc(SamplePokemon, 10);
     const maxStats = PokemonData.stats.calc(SamplePokemon, 40);
 
-    console.log(PokemonData.stats.cpByLevel);
-    console.log(PokemonData.stats.levelByCp);
+    assert.equal(maxStats.powerQuotient, 100);
 
-    console.log(stats);
-    console.log(maxStats);
+    assert.equal(maxStats.maxCombatPower, 794);
+    assert.equal(maxStats.maxLevel, 79);
+
+    assert.equal(stats.maxCombatPower, 238);
+    assert.equal(stats.maxLevel, 20);
+
+    assert.equal(stats.BaseStamina, 60);
+    assert.equal(stats.BaseAttack, 122);
+    assert.equal(stats.BaseDefense, 100);
+
+    assert.equal(stats.stardustToMax, 9400);
+    assert.equal(stats.candiesToMax, 13);
+
+    assert.equal(maxStats.stardustToMax, 268400);
+    assert.equal(maxStats.candiesToMax, 298);
   });
 });

@@ -1,82 +1,96 @@
+import leveling from '../leveling.json';
 import { byName } from './data';
 
-// TODO: this is incorrect, there are constants for each level, need to get exact values
-// http://pokemongo.gamepress.gg/cp-multiplier
+// Correct spreadsheet
+// https://docs.google.com/spreadsheets/d/1xZ1daunztOgvOZxO7ABfJPF41-2mqMDzY1Qs_0OWwq8/edit#gid=320772897
 // determine cp multiplier by level, each 0.5 levels we get:
-// 1-10: 0.009426125469
-// 10-20: 0.008919025675
-// 20-30: 0.008924905903
-// 30-40: 0.00445946079
 export const cpByLevel = {};
 export const levelByCp = {};
+export const candyToLevel = {};
+export const stardustToLevel = {};
 
-let cp = 0;
-let i = 1;
-while (i <= 40) {
-  if (i <= 10) {
-    cp += 0.009426125469;
-  } else if (i <= 20) {
-    cp += 0.008919025675;
-  } else if (i <= 30) {
-    cp += 0.008924905903;
-  } else {
-    cp += 0.00445946079;
-  }
+// parse that
+leveling.forEach(level => {
+  const normalizedLevel = parseInt(level['Pokemon level'], 10);
+  const cp = parseFloat(level.TotalCpMultiplier);
 
-  cpByLevel[i] = cp;
-  levelByCp[cp] = i;
+  cpByLevel[normalizedLevel] = cp;
+  cpByLevel[String(normalizedLevel)] = cp;
 
-  // get to next level
-  i += 0.5;
-}
+  levelByCp[cp.toFixed(8)] = normalizedLevel;
+  levelByCp[level.TotalCpMultiplier] = normalizedLevel;
+
+  candyToLevel[normalizedLevel] = level['Candies to this level'];
+  candyToLevel[String(normalizedLevel)] = level['Candies to this level'];
+
+  stardustToLevel[normalizedLevel] = level['Stardust to this level'];
+  stardustToLevel[String(normalizedLevel)] = level['Stardust to this level'];
+});
 
 // how perfect pokemon is, IVs
 export const powerQuotient = pokemon => {
   const atk = pokemon.individual_attack || 0;
   const def = pokemon.individual_defense || 0;
   const sta = pokemon.individual_stamina || 0;
-  return (atk + def + sta) / 45;
+  return Math.round((atk + def + sta) / 45 * 100);
 };
 
 // current cp, based on when pokemon was caught + how many power ups happened
 export const cpMultiplier = pokemon =>
   pokemon.cp_multiplier + (pokemon.additional_cp_multiplier || 0);
 
+// calculate CP
+export const cp = (multiplier, attack, stamina, defense) =>
+  floor(attack * pow(defense, 0.5) * pow(stamina, 0.5) * pow(multiplier, 2) / 10);
+
 // returns pokemons current stats
-export const calc = (pokemon, level) => {
-  if (level < 1 || level > 40) {
+// based on pokemon and player's level
+const { pow, floor } = Math;
+export const calc = (pokemon, _level) => {
+  if (_level < 1 || _level > 40) {
     throw new Error('level must be >= 1 and <= 40');
   }
 
+  const level = _level === 40 ? 79 : _level * 2;
   const { BaseStamina, BaseAttack, BaseDefense } = byName[pokemon.pokemon_id];
 
   // current cp of pokemon & max cp of pokemon for current trainer level
   const currentCpMultiplier = cpMultiplier(pokemon);
-  const pokemonLevel = levelByCp[currentCpMultiplier];
+  const pokemonLevel = levelByCp[currentCpMultiplier.toFixed(8)];
   const maxCpMultiplier = cpByLevel[level];
 
-  // max stats for current player level
-  const maxAttack = (BaseAttack + pokemon.individual_attack) * maxCpMultiplier;
-  const maxDefense = (BaseDefense + pokemon.individual_defense) * maxCpMultiplier;
-  const maxStamina = (BaseStamina + pokemon.individual_stamina) * maxCpMultiplier;
-
   // current stats of the pokemon
-  const attack = (BaseAttack + pokemon.individual_attack) * currentCpMultiplier;
-  const defense = (BaseDefense + pokemon.individual_defense) * currentCpMultiplier;
-  const stamina = (BaseStamina + pokemon.individual_stamina) * currentCpMultiplier;
+  const attack = (BaseAttack + pokemon.individual_attack);
+  const defense = (BaseDefense + pokemon.individual_defense);
+  const stamina = (BaseStamina + pokemon.individual_stamina);
 
   // max CP for this trainer level
-  const maxCombatPower = (maxAttack * (maxDefense ^ 0.5) * (maxStamina ^ 0.5) * (maxCpMultiplier ^ 2)) / 10;
+  const maxCombatPower = cp(maxCpMultiplier, attack, stamina, defense);
+  const currentCombatPower = cp(currentCpMultiplier, attack, stamina, defense);
+
+  // Determine how much grind is needed
+  // 'Stardust to this level' cur vs max
+  // 'Candies to this level'
 
   return {
+    stardustToMax: stardustToLevel[level] - stardustToLevel[pokemonLevel],
+    candiesToMax: candyToLevel[level] - candyToLevel[pokemonLevel],
+    BaseStamina,
+    BaseAttack,
+    BaseDefense,
+    cp: pokemon.cp,
     level: pokemonLevel,
-    attack,
-    defense,
-    stamina,
-    maxAttack,
-    maxDefense,
-    maxStamina,
+    attack: attack * currentCpMultiplier,
+    defense: defense * currentCpMultiplier,
+    stamina: stamina * currentCpMultiplier,
+    currentCpMultiplier,
+    currentCombatPower,
+    maxLevel: level,
+    maxAttack: attack * maxCpMultiplier,
+    maxDefense: defense * maxCpMultiplier,
+    maxStamina: stamina * maxCpMultiplier,
     maxCombatPower,
+    maxCpMultiplier,
     powerQuotient: powerQuotient(pokemon)
   };
 };
