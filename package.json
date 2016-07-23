@@ -1,0 +1,19 @@
+{
+  "name": "pokemongo-data",
+  "version": "1.0.0",
+  "description": "Pokemon Go data for Enhanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokemonGo-Enhanced/node-pokemongo-data.git"
+  },
+  "author": "Ruben Vereecken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PokemonGo-Enhanced/node-pokemongo-data/issues"
+  },
+  "homepage": "https://github.com/PokemonGo-Enhanced/node-pokemongo-data#readme"
+}
