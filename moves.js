@@ -9,17 +9,14 @@ module.exports = {};
 
   movesList.forEach(move => {
     let normName = changeCase.constantCase(move.name);
-    byId[move.id] = {
+    let newMove = {
+      id: move.id,
       type: move.type,
       name: normName,
       prettyName: move.name,
-    };
-
-    byName[normName] = {
-      id: move.id,
-      type: move.type,
-      prettyName: move.name,
-    };
+    }
+    byId[move.id] = newMove;
+    byName[normName] = newMove;
   });
 
   module.byId = byId;
