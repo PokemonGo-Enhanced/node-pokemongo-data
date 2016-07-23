@@ -4,7 +4,7 @@ class Stats {
     let def = pokemon.individual_defense || 0;
     let sta = pokemon.individual_stamina || 0;
     return (atk + def + sta) / 45;
-  },
+  }
 }
 
 
