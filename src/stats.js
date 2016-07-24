@@ -58,7 +58,7 @@ export const calc = (pokemon, _level) => {
   }
 
   const level = _level === 40 ? 79 : _level * 2;
-  const { BaseStamina, BaseAttack, BaseDefense } = PokemonByName[pokemon.pokemon_id];
+  const { BaseStamina, BaseAttack, BaseDefense, PkMn } = PokemonByName[pokemon.pokemon_id];
 
   // current cp of pokemon & max cp of pokemon for current trainer level
   const currentCpMultiplier = cpMultiplier(pokemon);
@@ -77,6 +77,7 @@ export const calc = (pokemon, _level) => {
   // IV relative influence on base stats
 
   return {
+    id: parseInt(PkMn, 10),
     move_1: moveByName[pokemon.move_1],
     move_2: moveByName[pokemon.move_2],
     IVInfluenceAttack: relativeInfluence(BaseAttack),
