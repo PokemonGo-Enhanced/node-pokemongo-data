@@ -43,6 +43,11 @@ export const cpMultiplier = pokemon =>
 export const cp = (multiplier, attack, stamina, defense) =>
   floor(attack * pow(defense, 0.5) * pow(stamina, 0.5) * pow(multiplier, 2) / 10);
 
+export const relativeInfluence = (...baseStats) => {
+  const sum = baseStats.reduce((stat, value) => stat + value, 0);
+  return Math.round(((sum + 15 * baseStats.length) / sum - 1) * 100) + '%';
+};
+
 // returns pokemons current stats
 // based on pokemon and player's level
 const { pow, floor } = Math;
@@ -68,11 +73,13 @@ export const calc = (pokemon, _level) => {
   const maxCombatPower = cp(maxCpMultiplier, attack, stamina, defense);
   const currentCombatPower = cp(currentCpMultiplier, attack, stamina, defense);
 
-  // Determine how much grind is needed
-  // 'Stardust to this level' cur vs max
-  // 'Candies to this level'
+  // IV relative influence on base stats
 
   return {
+    IVInfluenceAttack: relativeInfluence(BaseAttack),
+    IVInfluenceDefense: relativeInfluence(BaseDefense),
+    IVInfluenceStamina: relativeInfluence(BaseStamina),
+    IVInfluence: relativeInfluence(BaseAttack, BaseDefense, BaseStamina),
     stardustToMax: stardustToLevel[level] - stardustToLevel[pokemonLevel],
     candiesToMax: candyToLevel[level] - candyToLevel[pokemonLevel],
     BaseStamina,
