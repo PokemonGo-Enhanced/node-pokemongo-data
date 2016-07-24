@@ -1,0 +1,667 @@
+[
+  {
+    "id": "13",
+    "name": "Wrap",
+    "type": "Normal",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "14",
+    "name": "Hyper Beam",
+    "type": "Normal",
+    "power": "70",
+    "charge": 1
+  },
+  {
+    "id": "16",
+    "name": "Dark Pulse",
+    "type": "Dark",
+    "power": "45",
+    "charge": 3
+  },
+  {
+    "id": "18",
+    "name": "Sludge",
+    "type": "Poison",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "20",
+    "name": "Vice Grip",
+    "type": "Normal",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "21",
+    "name": "Flame Wheel",
+    "type": "Fire",
+    "power": "35",
+    "charge": 4
+  },
+  {
+    "id": "22",
+    "name": "Megahorn",
+    "type": "Bug",
+    "power": "55",
+    "charge": 1
+  },
+  {
+    "id": "24",
+    "name": "Flamethrower",
+    "type": "Fire",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "26",
+    "name": "Dig",
+    "type": "Ground",
+    "power": "45",
+    "charge": 3
+  },
+  {
+    "id": "28",
+    "name": "Cross Chop",
+    "type": "Fighting",
+    "power": "55",
+    "charge": 1
+  },
+  {
+    "id": "30",
+    "name": "Psybeam",
+    "type": "Psychic",
+    "power": "35",
+    "charge": 4
+  },
+  {
+    "id": "31",
+    "name": "Earthquake",
+    "type": "Ground",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "32",
+    "name": "Stone Edge",
+    "type": "Rock",
+    "power": "55",
+    "charge": 1
+  },
+  {
+    "id": "33",
+    "name": "Ice Punch",
+    "type": "Ice",
+    "power": "45",
+    "charge": 3
+  },
+  {
+    "id": "34",
+    "name": "Heart Stamp",
+    "type": "Psychic",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "35",
+    "name": "Discharge",
+    "type": "Electric",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "36",
+    "name": "Flash Cannon",
+    "type": "Steel",
+    "power": "55",
+    "charge": 3
+  },
+  {
+    "id": "38",
+    "name": "Drill Peck",
+    "type": "Flying",
+    "power": "30",
+    "charge": 3
+  },
+  {
+    "id": "39",
+    "name": "Ice Beam",
+    "type": "Ice",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "40",
+    "name": "Blizzard",
+    "type": "Ice",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "42",
+    "name": "Heat Wave",
+    "type": "Fire",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "45",
+    "name": "Aerial Ace",
+    "type": "Flying",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "46",
+    "name": "Drill Run",
+    "type": "Ground",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "47",
+    "name": "Petal Blizzard",
+    "type": "Grass",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "48",
+    "name": "Mega Drain",
+    "type": "Grass",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "49",
+    "name": "Bug Buzz",
+    "type": "Bug",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "50",
+    "name": "Poison Fang",
+    "type": "Poison",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "51",
+    "name": "Night Slash",
+    "type": "Dark",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "53",
+    "name": "Bubble Beam",
+    "type": "Water",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "54",
+    "name": "Submission",
+    "type": "Fighting",
+    "power": "30",
+    "charge": 3
+  },
+  {
+    "id": "56",
+    "name": "Low Sweep",
+    "type": "Fighting",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "57",
+    "name": "Aqua Jet",
+    "type": "Water",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "58",
+    "name": "Aqua Tail",
+    "type": "Water",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "59",
+    "name": "Seed Bomb",
+    "type": "Grass",
+    "power": "30",
+    "charge": 3
+  },
+  {
+    "id": "60",
+    "name": "Psyshock",
+    "type": "Psychic",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "62",
+    "name": "Ancient Power",
+    "type": "Rock",
+    "power": "30",
+    "charge": 4
+  },
+  {
+    "id": "63",
+    "name": "Rock Tomb",
+    "type": "Rock",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "64",
+    "name": "Rock Slide",
+    "type": "Rock",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "65",
+    "name": "Power Gem",
+    "type": "Rock",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "66",
+    "name": "Shadow Sneak",
+    "type": "Ghost",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "67",
+    "name": "Shadow Punch",
+    "type": "Ghost",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "69",
+    "name": "Ominous Wind",
+    "type": "Ghost",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "70",
+    "name": "Shadow Ball",
+    "type": "Ghost",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "72",
+    "name": "Magnet Bomb",
+    "type": "Steel",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "74",
+    "name": "Iron Head",
+    "type": "Steel",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "75",
+    "name": "Parabolic Charge",
+    "type": "Electric",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "77",
+    "name": "Thunder Punch",
+    "type": "Electric",
+    "power": "40",
+    "charge": 3
+  },
+  {
+    "id": "78",
+    "name": "Thunder",
+    "type": "Electric",
+    "power": "65",
+    "charge": 1
+  },
+  {
+    "id": "79",
+    "name": "Thunderbolt",
+    "type": "Electric",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "80",
+    "name": "Twister",
+    "type": "Dragon",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "82",
+    "name": "Dragon Pulse",
+    "type": "Dragon",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "83",
+    "name": "Dragon Claw",
+    "type": "Dragon",
+    "power": "40",
+    "charge": 2
+  },
+  {
+    "id": "84",
+    "name": "Disarming Voice",
+    "type": "Fairy",
+    "power": "20",
+    "charge": 5
+  },
+  {
+    "id": "85",
+    "name": "Draining Kiss",
+    "type": "Fairy",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "86",
+    "name": "Dazzling Gleam",
+    "type": "Fairy",
+    "power": "45",
+    "charge": 3
+  },
+  {
+    "id": "87",
+    "name": "Moonblast",
+    "type": "Fairy",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "88",
+    "name": "Play Rough",
+    "type": "Fairy",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "89",
+    "name": "Cross Poison",
+    "type": "Poison",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "90",
+    "name": "Sludge Bomb",
+    "type": "Poison",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "91",
+    "name": "Sludge Wave",
+    "type": "Poison",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "92",
+    "name": "Gunk Shot",
+    "type": "Poison",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "94",
+    "name": "Bone Club",
+    "type": "Ground",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "95",
+    "name": "Bulldoze",
+    "type": "Ground",
+    "power": "30",
+    "charge": 4
+  },
+  {
+    "id": "96",
+    "name": "Mud Bomb",
+    "type": "Ground",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "99",
+    "name": "Signal Beam",
+    "type": "Bug",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "100",
+    "name": "X-Scissor",
+    "type": "Bug",
+    "power": "30",
+    "charge": 3
+  },
+  {
+    "id": "101",
+    "name": "Flame Charge",
+    "type": "Fire",
+    "power": "20",
+    "charge": 5
+  },
+  {
+    "id": "102",
+    "name": "Flame Burst",
+    "type": "Fire",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "103",
+    "name": "Fire Blast",
+    "type": "Fire",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "104",
+    "name": "Brine",
+    "type": "Water",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "105",
+    "name": "Water Pulse",
+    "type": "Water",
+    "power": "30",
+    "charge": 4
+  },
+  {
+    "id": "106",
+    "name": "Scald",
+    "type": "Water",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "107",
+    "name": "Hydro Pump",
+    "type": "Water",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "108",
+    "name": "Psychic",
+    "type": "Psychic",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "109",
+    "name": "Psystrike",
+    "type": "Psychic",
+    "power": "70",
+    "charge": 1
+  },
+  {
+    "id": "111",
+    "name": "Icy Wind",
+    "type": "Ice",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "114",
+    "name": "Giga Drain",
+    "type": "Grass",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "115",
+    "name": "Fire Punch",
+    "type": "Fire",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "116",
+    "name": "Solar Beam",
+    "type": "Grass",
+    "power": "65",
+    "charge": 1
+  },
+  {
+    "id": "117",
+    "name": "Leaf Blade",
+    "type": "Grass",
+    "power": "45",
+    "charge": 2
+  },
+  {
+    "id": "118",
+    "name": "Power Whip",
+    "type": "Grass",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "121",
+    "name": "Air Cutter",
+    "type": "Flying",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "122",
+    "name": "Hurricane",
+    "type": "Flying",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "123",
+    "name": "Brick Break",
+    "type": "Fighting",
+    "power": "30",
+    "charge": 3
+  },
+  {
+    "id": "125",
+    "name": "Swift",
+    "type": "Normal",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "126",
+    "name": "Horn Attack",
+    "type": "Normal",
+    "power": "20",
+    "charge": 4
+  },
+  {
+    "id": "127",
+    "name": "Stomp",
+    "type": "Normal",
+    "power": "25",
+    "charge": 4
+  },
+  {
+    "id": "129",
+    "name": "Hyper Fang",
+    "type": "Normal",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "131",
+    "name": "Body Slam",
+    "type": "Normal",
+    "power": "50",
+    "charge": 2
+  },
+  {
+    "id": "132",
+    "name": "Rest",
+    "type": "Normal",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "133",
+    "name": "Struggle",
+    "type": "Normal",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "134",
+    "name": "Scald*",
+    "type": "Water",
+    "power": "35",
+    "charge": 3
+  },
+  {
+    "id": "135",
+    "name": "Hydro Pump*",
+    "type": "Water",
+    "power": "60",
+    "charge": 1
+  },
+  {
+    "id": "136",
+    "name": "Wrap*",
+    "type": "Normal",
+    "power": "15",
+    "charge": 5
+  },
+  {
+    "id": "137",
+    "name": "Wrap*",
+    "type": "Normal",
+    "power": "15",
+    "charge": 5
+  }
+]

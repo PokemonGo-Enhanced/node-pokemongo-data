@@ -1,6 +1,6 @@
 {
   "name": "pokemongo-data",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Pokemon Go data for Enhanced",
   "main": "./lib/index.js",
   "scripts": {

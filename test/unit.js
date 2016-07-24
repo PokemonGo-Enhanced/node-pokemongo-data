@@ -34,10 +34,17 @@ describe('test formulas', () => {
   it('returns move by id', () => {
     assert.equal(PokemonData.moves.byId[13].name, 'WRAP');
     assert.equal(PokemonData.moves.byId[13].type, 'Normal');
+    assert.equal(PokemonData.moves.byId[13].power, 15);
+    assert.equal(PokemonData.moves.byId[13].charge, 5);
   });
 
   it('returns move by name', () => {
     assert.equal(PokemonData.moves.byName['DARK_PULSE'].type, 'Dark');
+
+    assert.equal(PokemonData.moves.byName['BUBBLE_FAST'].prettyName, 'Bubble');
+    assert.equal(PokemonData.moves.byName['BUBBLE_FAST'].type, 'Water');
+    assert.equal(PokemonData.moves.byName['BUBBLE_FAST'].power, 15);
+    assert.equal(PokemonData.moves.byName['BUBBLE_FAST'].charge, 0);
   });
 
   it('returns pokemon stats', () => {
@@ -61,5 +68,23 @@ describe('test formulas', () => {
 
     assert.equal(maxStats.stardustToMax, 268400);
     assert.equal(maxStats.candiesToMax, 298);
+
+    assert.deepEqual(stats.move_1, {
+      id: 237,
+      type: 'Water',
+      name: 'BUBBLE',
+      prettyName: 'Bubble',
+      power: 15,
+      charge: 0
+    });
+
+    assert.deepEqual(stats.move_2, {
+      id: 82,
+      type: 'Dragon',
+      name: 'DRAGON_PULSE',
+      prettyName: 'Dragon Pulse',
+      power: 50,
+      charge: 2
+    });
   });
 });
