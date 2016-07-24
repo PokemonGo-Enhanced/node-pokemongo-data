@@ -638,28 +638,28 @@
   },
   {
     "id": "134",
-    "name": "Scald*",
+    "name": "Scald",
     "type": "Water",
     "power": "35",
     "charge": 3
   },
   {
     "id": "135",
-    "name": "Hydro Pump*",
+    "name": "Hydro Pump",
     "type": "Water",
     "power": "60",
     "charge": 1
   },
   {
     "id": "136",
-    "name": "Wrap*",
+    "name": "Wrap",
     "type": "Normal",
     "power": "15",
     "charge": 5
   },
   {
     "id": "137",
-    "name": "Wrap*",
+    "name": "Wrap",
     "type": "Normal",
     "power": "15",
     "charge": 5
