@@ -32,4 +32,4 @@ pokemonList.forEach(pokemon => {
   byNumber[pokemon.PkMn] = pokemon;
   byNumber[+pokemon.PkMn] = pokemon;
   byName[normName] = pokemon;
-});k
+});
