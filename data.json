@@ -28,7 +28,7 @@
     "PokedexWeightKg": "6,90",
     "HeightStdDev": "0,09",
     "WeightStdDev": "0,86",
-    "CandyFamily": "001_BULBASAUR",
+    "CandyFamily": "BULBASAUR",
     "CandyToEvolve": "25",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f0000000036ab0a403333b33fbfbbbb3f"
   },
@@ -61,7 +61,7 @@
     "PokedexWeightKg": "13,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "1,63",
-    "CandyFamily": "001_BULBASAUR",
+    "CandyFamily": "BULBASAUR",
     "CandyToEvolve": "100",
     "AnimTime": "36ab2a40daac2a3f6d56d53f36ab0a4000000000000000406d56d53fdbdddd3f"
   },
@@ -94,7 +94,7 @@
     "PokedexWeightKg": "100,00",
     "HeightStdDev": "0,25",
     "WeightStdDev": "12,50",
-    "CandyFamily": "001_BULBASAUR",
+    "CandyFamily": "BULBASAUR",
     "CandyToEvolve": "0",
     "AnimTime": "6ade1d40daac2a3f6d56d53f93a9ea3f00000000fd8708400000004046440440"
   },
@@ -127,7 +127,7 @@
     "PokedexWeightKg": "8,50",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,06",
-    "CandyFamily": "004_CHARMANDER",
+    "CandyFamily": "CHARMANDER",
     "CandyToEvolve": "25",
     "AnimTime": "fd870840daac2a3f6d56d53f93a9ea3f00000000fd8708406d56953fa8aaaa3f"
   },
@@ -160,7 +160,7 @@
     "PokedexWeightKg": "19,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "2,38",
-    "CandyFamily": "004_CHARMANDER",
+    "CandyFamily": "CHARMANDER",
     "CandyToEvolve": "100",
     "AnimTime": "07f0ee3fdaac2a3f93a9ea3f0000c03f5655d540ca5415400000004025222240"
   },
@@ -193,7 +193,7 @@
     "PokedexWeightKg": "90,50",
     "HeightStdDev": "0,21",
     "WeightStdDev": "11,31",
-    "CandyFamily": "004_CHARMANDER",
+    "CandyFamily": "CHARMANDER",
     "CandyToEvolve": "0",
     "AnimTime": "cdcc0c40daac2a3f6d56d53f0de05d3f5655d54000000040cdcccc3f00000040"
   },
@@ -226,7 +226,7 @@
     "PokedexWeightKg": "9,00",
     "HeightStdDev": "0,06",
     "WeightStdDev": "1,13",
-    "CandyFamily": "007_SQUIRTLE",
+    "CandyFamily": "SQUIRTLE",
     "CandyToEvolve": "25",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53f0000c03f0000000036ab0a400000803fa8aaaa3f"
   },
@@ -259,7 +259,7 @@
     "PokedexWeightKg": "22,50",
     "HeightStdDev": "0,13",
     "WeightStdDev": "2,81",
-    "CandyFamily": "007_SQUIRTLE",
+    "CandyFamily": "SQUIRTLE",
     "CandyToEvolve": "100",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f000000006666e63fa089883f0e11913f"
   },
@@ -292,7 +292,7 @@
     "PokedexWeightKg": "85,50",
     "HeightStdDev": "0,20",
     "WeightStdDev": "10,69",
-    "CandyFamily": "007_SQUIRTLE",
+    "CandyFamily": "SQUIRTLE",
     "CandyToEvolve": "0",
     "AnimTime": "fd870840daac2a3f6d56d53f93a9ea3f000000000000004036ab2a40a8aaaa3f"
   },
@@ -325,7 +325,7 @@
     "PokedexWeightKg": "2,90",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,36",
-    "CandyFamily": "010_CATERPIE",
+    "CandyFamily": "CATERPIE",
     "CandyToEvolve": "12",
     "AnimTime": "00000000daac2a3f6d56d53f6d56d53f0000000093a9ea3f6d56d53f00000000"
   },
@@ -358,7 +358,7 @@
     "PokedexWeightKg": "9,90",
     "HeightStdDev": "0,09",
     "WeightStdDev": "1,24",
-    "CandyFamily": "010_CATERPIE",
+    "CandyFamily": "CATERPIE",
     "CandyToEvolve": "50",
     "AnimTime": "93a9aa3fdaac2a3f93a9ea3f6d56d53f00000000a089c83f0000004000000000"
   },
@@ -391,7 +391,7 @@
     "PokedexWeightKg": "32,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "4,00",
-    "CandyFamily": "010_CATERPIE",
+    "CandyFamily": "CATERPIE",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3fc6dcdd3fdaac2a3f000000006ade1d40fd87084000000000"
   },
@@ -424,7 +424,7 @@
     "PokedexWeightKg": "3,20",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,40",
-    "CandyFamily": "013_WEEDLE",
+    "CandyFamily": "WEEDLE",
     "CandyToEvolve": "12",
     "AnimTime": "00000000daac2a3f6d56d53f93a9ea3f000000006d56d53f0000004000000000"
   },
@@ -457,7 +457,7 @@
     "PokedexWeightKg": "10,00",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,25",
-    "CandyFamily": "013_WEEDLE",
+    "CandyFamily": "WEEDLE",
     "CandyToEvolve": "50",
     "AnimTime": "00000000daac2a3f000000006d56d53f00000000000000400000204000000000"
   },
@@ -490,7 +490,7 @@
     "PokedexWeightKg": "29,50",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,69",
-    "CandyFamily": "013_WEEDLE",
+    "CandyFamily": "WEEDLE",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53fdaac2a3fcdcc4c3e6666e63f93a9aa3f00000000"
   },
@@ -523,7 +523,7 @@
     "PokedexWeightKg": "1,80",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,22",
-    "CandyFamily": "016_PIDGEY",
+    "CandyFamily": "PIDGEY",
     "CandyToEvolve": "12",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f0000000093a9ea3fcdcc4c3fa8aaaa3f"
   },
@@ -556,7 +556,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "3,75",
-    "CandyFamily": "016_PIDGEY",
+    "CandyFamily": "PIDGEY",
     "CandyToEvolve": "50",
     "AnimTime": "36ab2a40daac2a3f00000040cdcc4c3f0000000000000040daac2a3f00000000"
   },
@@ -589,7 +589,7 @@
     "PokedexWeightKg": "39,50",
     "HeightStdDev": "0,19",
     "WeightStdDev": "4,94",
-    "CandyFamily": "016_PIDGEY",
+    "CandyFamily": "PIDGEY",
     "CandyToEvolve": "0",
     "AnimTime": "d0440440daac2a3f6d56d53fdaac2a3f00000000000000406666e63f00000000"
   },
@@ -622,7 +622,7 @@
     "PokedexWeightKg": "3,50",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,44",
-    "CandyFamily": "019_RATTATA",
+    "CandyFamily": "RATTATA",
     "CandyToEvolve": "25",
     "AnimTime": "3333f33fdaac2a3f6666e63f3a23e23f000000009a9919400de05d3f00000000"
   },
@@ -655,7 +655,7 @@
     "PokedexWeightKg": "18,50",
     "HeightStdDev": "0,09",
     "WeightStdDev": "2,31",
-    "CandyFamily": "019_RATTATA",
+    "CandyFamily": "RATTATA",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3fc6dcdd3f6d56d53f0000000000000040d044044000000000"
   },
@@ -688,7 +688,7 @@
     "PokedexWeightKg": "2,00",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,25",
-    "CandyFamily": "021_SPEAROW",
+    "CandyFamily": "SPEAROW",
     "CandyToEvolve": "50",
     "AnimTime": "2d43c43fdaac2a3f6d56d53f93a9ea3f00000000ca541540cdcc4c3f00000000"
   },
@@ -721,7 +721,7 @@
     "PokedexWeightKg": "38,00",
     "HeightStdDev": "0,15",
     "WeightStdDev": "4,75",
-    "CandyFamily": "021_SPEAROW",
+    "CandyFamily": "SPEAROW",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f6d56d53f2653553f00000000ca5415406d56d53f00000000"
   },
@@ -754,7 +754,7 @@
     "PokedexWeightKg": "6,90",
     "HeightStdDev": "0,25",
     "WeightStdDev": "0,86",
-    "CandyFamily": "023_EKANS",
+    "CandyFamily": "EKANS",
     "CandyToEvolve": "50",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53f93a9ea3f00000000cdcc0c40cdcccc3f00000000"
   },
@@ -787,7 +787,7 @@
     "PokedexWeightKg": "65,00",
     "HeightStdDev": "0,44",
     "WeightStdDev": "8,13",
-    "CandyFamily": "023_EKANS",
+    "CandyFamily": "EKANS",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f6d56d53f0000c03f0000000036ab2a4036ab2a4000000000"
   },
@@ -820,7 +820,7 @@
     "PokedexWeightKg": "6,00",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,75",
-    "CandyFamily": "025_PIKACHU",
+    "CandyFamily": "PIKACHU",
     "CandyToEvolve": "50",
     "AnimTime": "93a9ea3fdaac2a3fcdcccc3fa089c83f000000006666e63ff90f913f8b88883f"
   },
@@ -853,7 +853,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,10",
     "WeightStdDev": "3,75",
-    "CandyFamily": "025_PIKACHU",
+    "CandyFamily": "PIKACHU",
     "CandyToEvolve": "0",
     "AnimTime": "63ee0e40daac2a3f00000040000000400000000036ab2a400000803f0e11913f"
   },
@@ -886,7 +886,7 @@
     "PokedexWeightKg": "12,00",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,50",
-    "CandyFamily": "027_SANDSHREW",
+    "CandyFamily": "SANDSHREW",
     "CandyToEvolve": "50",
     "AnimTime": "6666e63fdaac2a3fd3bcbb3f6d56d53f0000000036ab2a400000803f00000000"
   },
@@ -919,13 +919,13 @@
     "PokedexWeightKg": "29,50",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,69",
-    "CandyFamily": "027_SANDSHREW",
+    "CandyFamily": "SANDSHREW",
     "CandyToEvolve": "0",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53f6d56d53f0000000000000040cdcccc3f00000000"
   },
   {
     "PkMn": "29",
-    "Identifier": "NIDORAN_FEMALE",
+    "Identifier": "NIDORANFEMALE",
     "EvolvesFrom": "0",
     "EvolvesTo": "Nidorina",
     "EvoChainID": "12",
@@ -952,14 +952,14 @@
     "PokedexWeightKg": "7,00",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,88",
-    "CandyFamily": "029_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "25",
     "AnimTime": "93a9aa3fdaac2a3f6d56d53f93a9ea3f000000006d56d53ffd87084000000000"
   },
   {
     "PkMn": "30",
     "Identifier": "Nidorina",
-    "EvolvesFrom": "NIDORAN_FEMALE",
+    "EvolvesFrom": "NIDORANFEMALE",
     "EvolvesTo": "Nidoqueen",
     "EvoChainID": "12",
     "EvoStage": "2",
@@ -985,7 +985,7 @@
     "PokedexWeightKg": "20,00",
     "HeightStdDev": "0,10",
     "WeightStdDev": "2,50",
-    "CandyFamily": "029_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "100",
     "AnimTime": "6d56d53fdaac2a3f3a23e23fd3bcbb3f000000000000004093a9aa3f00000000"
   },
@@ -1018,13 +1018,13 @@
     "PokedexWeightKg": "60,00",
     "HeightStdDev": "0,16",
     "WeightStdDev": "7,50",
-    "CandyFamily": "029_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "0",
     "AnimTime": "93a9ea3fdaac2a3f6d56d53f6d56d53f00000000000000406d56d53f00000000"
   },
   {
     "PkMn": "32",
-    "Identifier": "NIDORAN_MALE",
+    "Identifier": "NIDORANMALE",
     "EvolvesFrom": "0",
     "EvolvesTo": "Nidorino",
     "EvoChainID": "13",
@@ -1051,14 +1051,14 @@
     "PokedexWeightKg": "9,00",
     "HeightStdDev": "0,06",
     "WeightStdDev": "1,13",
-    "CandyFamily": "032_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "25",
     "AnimTime": "93a9ea3fdaac2a3f6d56d53f6d56d53f00000000000000406d56d53f00000000"
   },
   {
     "PkMn": "33",
     "Identifier": "Nidorino",
-    "EvolvesFrom": "NIDORAN_MALE",
+    "EvolvesFrom": "NIDORANMALE",
     "EvolvesTo": "Nidoking",
     "EvoChainID": "13",
     "EvoStage": "2",
@@ -1084,7 +1084,7 @@
     "PokedexWeightKg": "19,50",
     "HeightStdDev": "0,11",
     "WeightStdDev": "2,44",
-    "CandyFamily": "032_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "100",
     "AnimTime": "6666e63fdaac2a3f6d56d53fc6dcdd3f000000006d56d53f6d56d53f00000000"
   },
@@ -1117,7 +1117,7 @@
     "PokedexWeightKg": "62,00",
     "HeightStdDev": "0,17",
     "WeightStdDev": "7,75",
-    "CandyFamily": "032_NIDORAN",
+    "CandyFamily": "NIDORAN",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f000000400000c03f0000000036ab0a403333b33f00000000"
   },
@@ -1150,7 +1150,7 @@
     "PokedexWeightKg": "7,50",
     "HeightStdDev": "0,08",
     "WeightStdDev": "0,94",
-    "CandyFamily": "035_CLEFAIRY",
+    "CandyFamily": "CLEFAIRY",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f000000000000004093a9aa3f5855d53f"
   },
@@ -1183,7 +1183,7 @@
     "PokedexWeightKg": "40,00",
     "HeightStdDev": "0,16",
     "WeightStdDev": "5,00",
-    "CandyFamily": "035_CLEFAIRY",
+    "CandyFamily": "CLEFAIRY",
     "CandyToEvolve": "0",
     "AnimTime": "ca541540daac2a3f6d56d53f93a9ea3f0000000036ab2a4093a9aa3f00000000"
   },
@@ -1216,7 +1216,7 @@
     "PokedexWeightKg": "9,90",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,24",
-    "CandyFamily": "037_VULPIX",
+    "CandyFamily": "VULPIX",
     "CandyToEvolve": "50",
     "AnimTime": "6d56d53fdaac2a3f6d56d53fcdcccc3f000000000000004093a9aa3fcdcc0c40"
   },
@@ -1249,7 +1249,7 @@
     "PokedexWeightKg": "19,90",
     "HeightStdDev": "0,14",
     "WeightStdDev": "2,49",
-    "CandyFamily": "037_VULPIX",
+    "CandyFamily": "VULPIX",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f00000040000000400000000036ab0a400000004000000040"
   },
@@ -1282,7 +1282,7 @@
     "PokedexWeightKg": "5,50",
     "HeightStdDev": "0,06",
     "WeightStdDev": "0,69",
-    "CandyFamily": "039_JIGGLYPUFF",
+    "CandyFamily": "JIGGLYPUFF",
     "CandyToEvolve": "50",
     "AnimTime": "36ab2a40daac2a3f6d56d53f36ab6a400000000036ab2a406d56d53f00000040"
   },
@@ -1315,7 +1315,7 @@
     "PokedexWeightKg": "12,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "1,50",
-    "CandyFamily": "039_JIGGLYPUFF",
+    "CandyFamily": "JIGGLYPUFF",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3ff90fd13f93a9ea3f0000000093a9ea3f0000004000000000"
   },
@@ -1348,7 +1348,7 @@
     "PokedexWeightKg": "7,50",
     "HeightStdDev": "0,10",
     "WeightStdDev": "0,94",
-    "CandyFamily": "041_ZUBAT",
+    "CandyFamily": "ZUBAT",
     "CandyToEvolve": "50",
     "AnimTime": "93a9aa3fdaac2a3f93a9aa3fdaac2a3f000000000000c03f93a9aa3f00000000"
   },
@@ -1381,7 +1381,7 @@
     "PokedexWeightKg": "55,00",
     "HeightStdDev": "0,20",
     "WeightStdDev": "6,88",
-    "CandyFamily": "041_ZUBAT",
+    "CandyFamily": "ZUBAT",
     "CandyToEvolve": "0",
     "AnimTime": "0000c03fdaac2a3f93a9aa3fdaac2a3f00000000000000400000004000000000"
   },
@@ -1414,7 +1414,7 @@
     "PokedexWeightKg": "5,40",
     "HeightStdDev": "0,06",
     "WeightStdDev": "0,68",
-    "CandyFamily": "043_ODDISH",
+    "CandyFamily": "ODDISH",
     "CandyToEvolve": "25",
     "AnimTime": "d3bcbb3fdaac2a3f6d56d53f6d56d53f00000000000020406d56d53f00000000"
   },
@@ -1447,7 +1447,7 @@
     "PokedexWeightKg": "8,60",
     "HeightStdDev": "0,10",
     "WeightStdDev": "1,08",
-    "CandyFamily": "043_ODDISH",
+    "CandyFamily": "ODDISH",
     "CandyToEvolve": "100",
     "AnimTime": "93a9ea3fdaac2a3f6d56d53f6d56d53f000000006d56d53f3a23a23f00000000"
   },
@@ -1480,7 +1480,7 @@
     "PokedexWeightKg": "18,60",
     "HeightStdDev": "0,15",
     "WeightStdDev": "2,33",
-    "CandyFamily": "043_ODDISH",
+    "CandyFamily": "ODDISH",
     "CandyToEvolve": "0",
     "AnimTime": "36ab0a40daac2a3f6d56d53f0000c03f0000000036ab0a40a779773f00000000"
   },
@@ -1513,7 +1513,7 @@
     "PokedexWeightKg": "5,40",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,68",
-    "CandyFamily": "046_PARAS",
+    "CandyFamily": "PARAS",
     "CandyToEvolve": "50",
     "AnimTime": "6d56d53fdaac2a3f3a23e23ff90fd13f00000000ca54154093a9aa3f4144c43f"
   },
@@ -1546,7 +1546,7 @@
     "PokedexWeightKg": "29,50",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,69",
-    "CandyFamily": "046_PARAS",
+    "CandyFamily": "PARAS",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f000000006d56d53f0000004000000000"
   },
@@ -1579,7 +1579,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,75",
-    "CandyFamily": "048_VENONAT",
+    "CandyFamily": "VENONAT",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3f6d56d53f0000004000000000000000400000004000000000"
   },
@@ -1612,7 +1612,7 @@
     "PokedexWeightKg": "12,50",
     "HeightStdDev": "0,19",
     "WeightStdDev": "1,56",
-    "CandyFamily": "048_VENONAT",
+    "CandyFamily": "VENONAT",
     "CandyToEvolve": "0",
     "AnimTime": "000000009a99193f6d56d53f9a99193f00000000fd870840cdcccc3f00000000"
   },
@@ -1645,7 +1645,7 @@
     "PokedexWeightKg": "0,80",
     "HeightStdDev": "0,03",
     "WeightStdDev": "0,10",
-    "CandyFamily": "050_DIGLETT",
+    "CandyFamily": "DIGLETT",
     "CandyToEvolve": "50",
     "AnimTime": "6076b73fdaac2a3f000000400de05d3f0000000036ab0a4093a9aa3fa8aaaa3f"
   },
@@ -1678,7 +1678,7 @@
     "PokedexWeightKg": "33,30",
     "HeightStdDev": "0,09",
     "WeightStdDev": "4,16",
-    "CandyFamily": "050_DIGLETT",
+    "CandyFamily": "DIGLETT",
     "CandyToEvolve": "0",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53f6666663f00000000fd8708400000004000000000"
   },
@@ -1711,7 +1711,7 @@
     "PokedexWeightKg": "4,20",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,52",
-    "CandyFamily": "052_MEOWTH",
+    "CandyFamily": "MEOWTH",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3fc6dcdd3f0000c03f00000000000000403333b33f00000040"
   },
@@ -1744,7 +1744,7 @@
     "PokedexWeightKg": "32,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "4,00",
-    "CandyFamily": "052_MEOWTH",
+    "CandyFamily": "MEOWTH",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f000000006d56d53f6d56d53f00000000"
   },
@@ -1777,7 +1777,7 @@
     "PokedexWeightKg": "19,60",
     "HeightStdDev": "0,10",
     "WeightStdDev": "2,45",
-    "CandyFamily": "054_PSYDUCK",
+    "CandyFamily": "PSYDUCK",
     "CandyToEvolve": "50",
     "AnimTime": "93a9ea3fdaac2a3f6d56d53f0000c03f00000000666626406d56d53f00000000"
   },
@@ -1810,7 +1810,7 @@
     "PokedexWeightKg": "76,60",
     "HeightStdDev": "0,21",
     "WeightStdDev": "9,57",
-    "CandyFamily": "054_PSYDUCK",
+    "CandyFamily": "PSYDUCK",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f6d56d53f00000000000000406d56d53f00000000"
   },
@@ -1843,7 +1843,7 @@
     "PokedexWeightKg": "28,00",
     "HeightStdDev": "0,06",
     "WeightStdDev": "3,50",
-    "CandyFamily": "056_MANKEY",
+    "CandyFamily": "MANKEY",
     "CandyToEvolve": "50",
     "AnimTime": "0000c03f9a99193f93a9aa3ff90fd13f00000000d3bcfb3fc0ec6e3f00000000"
   },
@@ -1876,7 +1876,7 @@
     "PokedexWeightKg": "32,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "4,00",
-    "CandyFamily": "056_MANKEY",
+    "CandyFamily": "MANKEY",
     "CandyToEvolve": "0",
     "AnimTime": "93a9aa3fdaac2a3f0000c03f93a9aa3f000000006d56d53f93a9aa3f00000000"
   },
@@ -1909,7 +1909,7 @@
     "PokedexWeightKg": "19,00",
     "HeightStdDev": "0,09",
     "WeightStdDev": "2,38",
-    "CandyFamily": "058_GROWLITHE",
+    "CandyFamily": "GROWLITHE",
     "CandyToEvolve": "50",
     "AnimTime": "96210240daac2a3f6666e63f0000c03f000000009d111140cdcc4c3f6666e63f"
   },
@@ -1942,7 +1942,7 @@
     "PokedexWeightKg": "155,00",
     "HeightStdDev": "0,24",
     "WeightStdDev": "19,38",
-    "CandyFamily": "058_GROWLITHE",
+    "CandyFamily": "GROWLITHE",
     "CandyToEvolve": "0",
     "AnimTime": "fd870840daac2a3fc6dcdd3f93a9ea3f0000000007f0ee3fc6dcdd3f00000040"
   },
@@ -1975,7 +1975,7 @@
     "PokedexWeightKg": "12,40",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,55",
-    "CandyFamily": "060_POLIWAG",
+    "CandyFamily": "POLIWAG",
     "CandyToEvolve": "25",
     "AnimTime": "6d56d53fdaac2a3f000000400000c03f000000006d56d53f0000c03f00000000"
   },
@@ -2008,7 +2008,7 @@
     "PokedexWeightKg": "20,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "2,50",
-    "CandyFamily": "060_POLIWAG",
+    "CandyFamily": "POLIWAG",
     "CandyToEvolve": "100",
     "AnimTime": "93a9aa3fdaac2a3f36ab0a400000c03f000000000000004093a9aa3f00000000"
   },
@@ -2041,7 +2041,7 @@
     "PokedexWeightKg": "54,00",
     "HeightStdDev": "0,16",
     "WeightStdDev": "6,75",
-    "CandyFamily": "060_POLIWAG",
+    "CandyFamily": "POLIWAG",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f6d56d53f0000000000000040c6dc9d3f00000000"
   },
@@ -2074,7 +2074,7 @@
     "PokedexWeightKg": "19,50",
     "HeightStdDev": "0,11",
     "WeightStdDev": "2,44",
-    "CandyFamily": "063_ABRA",
+    "CandyFamily": "ABRA",
     "CandyToEvolve": "25",
     "AnimTime": "00000000daac2a3f6d56d53fdaac2a3f0000000036ab0a4036ab2a4000000000"
   },
@@ -2107,7 +2107,7 @@
     "PokedexWeightKg": "56,50",
     "HeightStdDev": "0,16",
     "WeightStdDev": "7,06",
-    "CandyFamily": "063_ABRA",
+    "CandyFamily": "ABRA",
     "CandyToEvolve": "100",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53f07f0ee3f0000000066660640c6dcdd3f00000000"
   },
@@ -2140,7 +2140,7 @@
     "PokedexWeightKg": "48,00",
     "HeightStdDev": "0,19",
     "WeightStdDev": "6,00",
-    "CandyFamily": "063_ABRA",
+    "CandyFamily": "ABRA",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f0000c03f00000000ca5415400000204000000040"
   },
@@ -2173,7 +2173,7 @@
     "PokedexWeightKg": "19,50",
     "HeightStdDev": "0,10",
     "WeightStdDev": "2,44",
-    "CandyFamily": "066_MACHOP",
+    "CandyFamily": "MACHOP",
     "CandyToEvolve": "25",
     "AnimTime": "9d111140daac2a3f00000040c6dcdd3f0000000036ab0a400000803f00000000"
   },
@@ -2206,7 +2206,7 @@
     "PokedexWeightKg": "70,50",
     "HeightStdDev": "0,19",
     "WeightStdDev": "8,81",
-    "CandyFamily": "066_MACHOP",
+    "CandyFamily": "MACHOP",
     "CandyToEvolve": "100",
     "AnimTime": "0000c03fdaac2a3f6d56d53f6d56d53f0000000036ab0a40a089883f00000000"
   },
@@ -2239,7 +2239,7 @@
     "PokedexWeightKg": "130,00",
     "HeightStdDev": "0,20",
     "WeightStdDev": "16,25",
-    "CandyFamily": "066_MACHOP",
+    "CandyFamily": "MACHOP",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f6d56d53f000000006d56d53f93a9aa3fa8aaaa3f"
   },
@@ -2272,7 +2272,7 @@
     "PokedexWeightKg": "4,00",
     "HeightStdDev": "0,09",
     "WeightStdDev": "0,50",
-    "CandyFamily": "069_BELLSPROUT",
+    "CandyFamily": "BELLSPROUT",
     "CandyToEvolve": "25",
     "AnimTime": "9a99d93fdaac2a3f0000204093a9ea3f00000000000000400000004000000000"
   },
@@ -2305,7 +2305,7 @@
     "PokedexWeightKg": "6,40",
     "HeightStdDev": "0,13",
     "WeightStdDev": "0,80",
-    "CandyFamily": "069_BELLSPROUT",
+    "CandyFamily": "BELLSPROUT",
     "CandyToEvolve": "100",
     "AnimTime": "6666e63fdaac2a3f2d43c43fdaac2a3f000000009d1111400000004000000000"
   },
@@ -2338,7 +2338,7 @@
     "PokedexWeightKg": "15,50",
     "HeightStdDev": "0,21",
     "WeightStdDev": "1,94",
-    "CandyFamily": "069_BELLSPROUT",
+    "CandyFamily": "BELLSPROUT",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53fdaac2a3f0000000036ab0a400000004000000000"
   },
@@ -2371,7 +2371,7 @@
     "PokedexWeightKg": "45,50",
     "HeightStdDev": "0,11",
     "WeightStdDev": "5,69",
-    "CandyFamily": "072_TENTACOOL",
+    "CandyFamily": "TENTACOOL",
     "CandyToEvolve": "50",
     "AnimTime": "36ab2a40daac2a3f6d56d53fdaac2a3f00000000333313400000004000000000"
   },
@@ -2404,7 +2404,7 @@
     "PokedexWeightKg": "55,00",
     "HeightStdDev": "0,20",
     "WeightStdDev": "6,88",
-    "CandyFamily": "072_TENTACOOL",
+    "CandyFamily": "TENTACOOL",
     "CandyToEvolve": "0",
     "AnimTime": "36ab0a40daac2a3f93a9aa3fdaac2a3f000000000000004036ab2a4000000040"
   },
@@ -2437,7 +2437,7 @@
     "PokedexWeightKg": "20,00",
     "HeightStdDev": "0,05",
     "WeightStdDev": "2,50",
-    "CandyFamily": "074_GEODUDE",
+    "CandyFamily": "GEODUDE",
     "CandyToEvolve": "25",
     "AnimTime": "ca541540daac2a3f6d56d53fdaac2a3f00000000000000406d56d53f00000000"
   },
@@ -2470,7 +2470,7 @@
     "PokedexWeightKg": "105,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "13,13",
-    "CandyFamily": "074_GEODUDE",
+    "CandyFamily": "GEODUDE",
     "CandyToEvolve": "100",
     "AnimTime": "ca541540daac2a3f07f0ee3f93a9ea3f00000000000000406d56d53f00000000"
   },
@@ -2503,7 +2503,7 @@
     "PokedexWeightKg": "300,00",
     "HeightStdDev": "0,17",
     "WeightStdDev": "37,50",
-    "CandyFamily": "074_GEODUDE",
+    "CandyFamily": "GEODUDE",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f00000040000000400000000036ab0a400000004000000000"
   },
@@ -2536,7 +2536,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,75",
-    "CandyFamily": "077_PONYTA",
+    "CandyFamily": "PONYTA",
     "CandyToEvolve": "50",
     "AnimTime": "ca541540daac2a3f6d56d53f0000c03faaaaaa40ca5415406d56d53f00000000"
   },
@@ -2569,7 +2569,7 @@
     "PokedexWeightKg": "95,00",
     "HeightStdDev": "0,21",
     "WeightStdDev": "11,88",
-    "CandyFamily": "077_PONYTA",
+    "CandyFamily": "PONYTA",
     "CandyToEvolve": "0",
     "AnimTime": "d04404402653553fca54154007f0ee3f0000000036ab0a4036ab2a4000000000"
   },
@@ -2602,7 +2602,7 @@
     "PokedexWeightKg": "36,00",
     "HeightStdDev": "0,15",
     "WeightStdDev": "4,50",
-    "CandyFamily": "079_SLOWPOKE",
+    "CandyFamily": "SLOWPOKE",
     "CandyToEvolve": "50",
     "AnimTime": "00004040daac2a3f000000406d56d53f00000000000000406d56d53f00000000"
   },
@@ -2635,7 +2635,7 @@
     "PokedexWeightKg": "78,50",
     "HeightStdDev": "0,20",
     "WeightStdDev": "9,81",
-    "CandyFamily": "079_SLOWPOKE",
+    "CandyFamily": "SLOWPOKE",
     "CandyToEvolve": "0",
     "AnimTime": "ca541540daac2a3f6d56d53f666606400000000093a9ea3f0000004000004040"
   },
@@ -2668,7 +2668,7 @@
     "PokedexWeightKg": "6,00",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,75",
-    "CandyFamily": "081_MAGNEMITE",
+    "CandyFamily": "MAGNEMITE",
     "CandyToEvolve": "50",
     "AnimTime": "93a9aa3fdaac2a3fc6dc9d3fdaac2a3f00000000000000406d56953f5855953f"
   },
@@ -2701,7 +2701,7 @@
     "PokedexWeightKg": "60,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "7,50",
-    "CandyFamily": "081_MAGNEMITE",
+    "CandyFamily": "MAGNEMITE",
     "CandyToEvolve": "0",
     "AnimTime": "0000c03fdaac2a3f93a9aa3fdaac2a3f0000000093a9ea3f0000004000000000"
   },
@@ -2734,7 +2734,7 @@
     "PokedexWeightKg": "15,00",
     "HeightStdDev": "0,10",
     "WeightStdDev": "1,88",
-    "CandyFamily": "083_FARFETCHD",
+    "CandyFamily": "FARFETCHD",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f0000000093a9ea3fcdcccc3f00000000"
   },
@@ -2767,7 +2767,7 @@
     "PokedexWeightKg": "39,20",
     "HeightStdDev": "0,17",
     "WeightStdDev": "4,90",
-    "CandyFamily": "084_DODUO",
+    "CandyFamily": "DODUO",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3f6d56d53f0000c03f00000000000000402d43c43f00000000"
   },
@@ -2800,7 +2800,7 @@
     "PokedexWeightKg": "85,20",
     "HeightStdDev": "0,22",
     "WeightStdDev": "10,65",
-    "CandyFamily": "084_DODUO",
+    "CandyFamily": "DODUO",
     "CandyToEvolve": "0",
     "AnimTime": "93a9aa3fdaac2a3f6d56d53f0000004000000000000000400000004000000000"
   },
@@ -2833,7 +2833,7 @@
     "PokedexWeightKg": "90,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "11,25",
-    "CandyFamily": "086_SEEL",
+    "CandyFamily": "SEEL",
     "CandyToEvolve": "50",
     "AnimTime": "36ab2a40daac2a3f93a9ea3f6d56d53f00000000000000400000004000000000"
   },
@@ -2866,7 +2866,7 @@
     "PokedexWeightKg": "120,00",
     "HeightStdDev": "0,21",
     "WeightStdDev": "15,00",
-    "CandyFamily": "086_SEEL",
+    "CandyFamily": "SEEL",
     "CandyToEvolve": "0",
     "AnimTime": "d04404402653553f6d56d53fdaac2a3f00000000ca5415400000004000000000"
   },
@@ -2899,7 +2899,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,11",
     "WeightStdDev": "3,75",
-    "CandyFamily": "088_GRIMER",
+    "CandyFamily": "GRIMER",
     "CandyToEvolve": "50",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f6d56d53f000020416d56d53f36ab2a4000000000"
   },
@@ -2932,7 +2932,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,15",
     "WeightStdDev": "3,75",
-    "CandyFamily": "088_GRIMER",
+    "CandyFamily": "GRIMER",
     "CandyToEvolve": "0",
     "AnimTime": "000000400000803f6d56d53f36ab0a40000020410000004036ab2a4000000000"
   },
@@ -2965,7 +2965,7 @@
     "PokedexWeightKg": "4,00",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,50",
-    "CandyFamily": "090_SHELLDER",
+    "CandyFamily": "SHELLDER",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3f6d56d53f6d56d53f000000006d56d53f36ab2a4000000000"
   },
@@ -2998,7 +2998,7 @@
     "PokedexWeightKg": "132,50",
     "HeightStdDev": "0,19",
     "WeightStdDev": "16,56",
-    "CandyFamily": "090_SHELLDER",
+    "CandyFamily": "SHELLDER",
     "CandyToEvolve": "0",
     "AnimTime": "30bb1b40daac2a3fc6dcdd3fdaac2a3f00000000ca541540d3bcfb3f33337340"
   },
@@ -3031,7 +3031,7 @@
     "PokedexWeightKg": "0,10",
     "HeightStdDev": "0,16",
     "WeightStdDev": "0,01",
-    "CandyFamily": "092_GASTLY",
+    "CandyFamily": "GASTLY",
     "CandyToEvolve": "25",
     "AnimTime": "00000000daac2a3f6d56d53f0000803f00000000fd870840fd87084000000000"
   },
@@ -3064,7 +3064,7 @@
     "PokedexWeightKg": "0,10",
     "HeightStdDev": "0,20",
     "WeightStdDev": "0,01",
-    "CandyFamily": "092_GASTLY",
+    "CandyFamily": "GASTLY",
     "CandyToEvolve": "100",
     "AnimTime": "36ab0a40daac2a3f6d56d53fdaac2a3f00000000ca5415400000004000000000"
   },
@@ -3097,7 +3097,7 @@
     "PokedexWeightKg": "40,50",
     "HeightStdDev": "0,19",
     "WeightStdDev": "5,06",
-    "CandyFamily": "092_GASTLY",
+    "CandyFamily": "GASTLY",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f000000006d56d53f93a9aa3f5855d53f"
   },
@@ -3130,7 +3130,7 @@
     "PokedexWeightKg": "210,00",
     "HeightStdDev": "1,10",
     "WeightStdDev": "26,25",
-    "CandyFamily": "095_ONIX",
+    "CandyFamily": "ONIX",
     "CandyToEvolve": "0",
     "AnimTime": "ca541540daac2a3fc6dcdd3fc6dcdd3f00000000ca5415409621024000000000"
   },
@@ -3163,7 +3163,7 @@
     "PokedexWeightKg": "32,40",
     "HeightStdDev": "0,13",
     "WeightStdDev": "4,05",
-    "CandyFamily": "096_DROWZEE",
+    "CandyFamily": "DROWZEE",
     "CandyToEvolve": "50",
     "AnimTime": "93a9ea3fdaac2a3f6d56d53f3a23e23f0000000000000040ca54154000000000"
   },
@@ -3196,7 +3196,7 @@
     "PokedexWeightKg": "75,60",
     "HeightStdDev": "0,20",
     "WeightStdDev": "9,45",
-    "CandyFamily": "096_DROWZEE",
+    "CandyFamily": "DROWZEE",
     "CandyToEvolve": "0",
     "AnimTime": "07f0ee3fdaac2a3f000000406076b73f0000000036ab2a40cdcccc3f00000000"
   },
@@ -3229,7 +3229,7 @@
     "PokedexWeightKg": "6,50",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,81",
-    "CandyFamily": "098_KRABBY",
+    "CandyFamily": "KRABBY",
     "CandyToEvolve": "50",
     "AnimTime": "6076b73fdaac2a3f6d56d53f0000c03f00000000ca54154093a9aa3f00000000"
   },
@@ -3262,7 +3262,7 @@
     "PokedexWeightKg": "60,00",
     "HeightStdDev": "0,16",
     "WeightStdDev": "7,50",
-    "CandyFamily": "098_KRABBY",
+    "CandyFamily": "KRABBY",
     "CandyToEvolve": "0",
     "AnimTime": "9d111140daac2a3f6666e63fa089c83f00000000000000402d43c43f00000000"
   },
@@ -3295,7 +3295,7 @@
     "PokedexWeightKg": "10,40",
     "HeightStdDev": "0,06",
     "WeightStdDev": "1,30",
-    "CandyFamily": "100_VOLTORB",
+    "CandyFamily": "VOLTORB",
     "CandyToEvolve": "50",
     "AnimTime": "36ab2a40daac2a3f6d56d53f93a9ea3f00000000ca5415400000004000000040"
   },
@@ -3328,7 +3328,7 @@
     "PokedexWeightKg": "66,60",
     "HeightStdDev": "0,15",
     "WeightStdDev": "8,32",
-    "CandyFamily": "100_VOLTORB",
+    "CandyFamily": "VOLTORB",
     "CandyToEvolve": "0",
     "AnimTime": "ca541540daac2a3f6d56d53f93a9ea3f00000000ca5415400000404000000000"
   },
@@ -3361,7 +3361,7 @@
     "PokedexWeightKg": "2,50",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,31",
-    "CandyFamily": "102_EXEGGCUTE",
+    "CandyFamily": "EXEGGCUTE",
     "CandyToEvolve": "50",
     "AnimTime": "00002040daac2a3f6d56d53f6d56d53f00000000000000400000004000000000"
   },
@@ -3394,7 +3394,7 @@
     "PokedexWeightKg": "120,00",
     "HeightStdDev": "0,25",
     "WeightStdDev": "15,00",
-    "CandyFamily": "102_EXEGGCUTE",
+    "CandyFamily": "EXEGGCUTE",
     "CandyToEvolve": "0",
     "AnimTime": "6ade1d40daac2a3f6d56d53f0000004000000000cdcc0c40cdcccc3f00000000"
   },
@@ -3427,7 +3427,7 @@
     "PokedexWeightKg": "6,50",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,81",
-    "CandyFamily": "104_CUBONE",
+    "CandyFamily": "CUBONE",
     "CandyToEvolve": "50",
     "AnimTime": "c6dcdd3fdaac2a3fcdcccc3fcdcccc3f0000000093a9ea3fcdcccc3f00000000"
   },
@@ -3460,7 +3460,7 @@
     "PokedexWeightKg": "45,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "5,63",
-    "CandyFamily": "104_CUBONE",
+    "CandyFamily": "CUBONE",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f0000c03f00000000000000403333b33f00000000"
   },
@@ -3493,7 +3493,7 @@
     "PokedexWeightKg": "49,80",
     "HeightStdDev": "0,19",
     "WeightStdDev": "6,22",
-    "CandyFamily": "106_HITMONLEE",
+    "CandyFamily": "HITMONLEE",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f0000c03f0000000000000040c0ec6e3f00000000"
   },
@@ -3526,7 +3526,7 @@
     "PokedexWeightKg": "50,20",
     "HeightStdDev": "0,17",
     "WeightStdDev": "6,28",
-    "CandyFamily": "107_HITMONCHAN",
+    "CandyFamily": "HITMONCHAN",
     "CandyToEvolve": "0",
     "AnimTime": "0000c03fdaac2a3f6d56d53f6d56d53f00000000c6dcdd3fdaac2a3f00000000"
   },
@@ -3559,7 +3559,7 @@
     "PokedexWeightKg": "65,50",
     "HeightStdDev": "0,15",
     "WeightStdDev": "8,19",
-    "CandyFamily": "108_LICKITUNG",
+    "CandyFamily": "LICKITUNG",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53fc6dcdd3f0000000000000040cdcc4c3f00000000"
   },
@@ -3592,7 +3592,7 @@
     "PokedexWeightKg": "1,00",
     "HeightStdDev": "0,08",
     "WeightStdDev": "0,13",
-    "CandyFamily": "109_KOFFING",
+    "CandyFamily": "KOFFING",
     "CandyToEvolve": "50",
     "AnimTime": "93a9aa3fdaac2a3f0000c03fdaac2a3f5655d540000000400000004000000000"
   },
@@ -3625,7 +3625,7 @@
     "PokedexWeightKg": "9,50",
     "HeightStdDev": "0,15",
     "WeightStdDev": "1,19",
-    "CandyFamily": "109_KOFFING",
+    "CandyFamily": "KOFFING",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53fdaac2a3f545555406ade1d4036ab2a4000000000"
   },
@@ -3658,7 +3658,7 @@
     "PokedexWeightKg": "115,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "14,38",
-    "CandyFamily": "111_RHYHORN",
+    "CandyFamily": "RHYHORN",
     "CandyToEvolve": "50",
     "AnimTime": "3a23e23f0000803f0000c03f93a9ea3f0000000036ab2a409a99194000000000"
   },
@@ -3691,7 +3691,7 @@
     "PokedexWeightKg": "120,00",
     "HeightStdDev": "0,24",
     "WeightStdDev": "15,00",
-    "CandyFamily": "111_RHYHORN",
+    "CandyFamily": "RHYHORN",
     "CandyToEvolve": "0",
     "AnimTime": "9a99d93fdaac2a3f666606409a99d93f0000000000000040cdcccc3f00000000"
   },
@@ -3724,7 +3724,7 @@
     "PokedexWeightKg": "34,60",
     "HeightStdDev": "0,14",
     "WeightStdDev": "4,32",
-    "CandyFamily": "113_CHANSEY",
+    "CandyFamily": "CHANSEY",
     "CandyToEvolve": "0",
     "AnimTime": "36ab0a40daac2a3f00000040a089c83f0000000036ab0a40c6dcdd3f5855d53f"
   },
@@ -3757,7 +3757,7 @@
     "PokedexWeightKg": "35,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "4,38",
-    "CandyFamily": "114_TANGELA",
+    "CandyFamily": "TANGELA",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f93a9ea3f93a9ea3f000000000000204007f0ee3f00000000"
   },
@@ -3790,7 +3790,7 @@
     "PokedexWeightKg": "80,00",
     "HeightStdDev": "0,28",
     "WeightStdDev": "10,00",
-    "CandyFamily": "115_KANGASKHAN",
+    "CandyFamily": "KANGASKHAN",
     "CandyToEvolve": "0",
     "AnimTime": "fd870840daac2a3f6d56d53f0000c03f00000000ca541540ca54154054551540"
   },
@@ -3823,7 +3823,7 @@
     "PokedexWeightKg": "8,00",
     "HeightStdDev": "0,05",
     "WeightStdDev": "1,00",
-    "CandyFamily": "116_HORSEA",
+    "CandyFamily": "HORSEA",
     "CandyToEvolve": "50",
     "AnimTime": "00000000daac2a3fc6dcdd3f2653553f9faaaa3e6d56d53f0000004000000000"
   },
@@ -3856,7 +3856,7 @@
     "PokedexWeightKg": "25,00",
     "HeightStdDev": "0,15",
     "WeightStdDev": "3,13",
-    "CandyFamily": "116_HORSEA",
+    "CandyFamily": "HORSEA",
     "CandyToEvolve": "0",
     "AnimTime": "00000000daac2a3f6d56d53fdaac2a3f0000000093a9ea3f0000004000000000"
   },
@@ -3889,7 +3889,7 @@
     "PokedexWeightKg": "15,00",
     "HeightStdDev": "0,08",
     "WeightStdDev": "1,88",
-    "CandyFamily": "118_GOLDEEN",
+    "CandyFamily": "GOLDEEN",
     "CandyToEvolve": "50",
     "AnimTime": "000040400000803f6d56d53fdaac2a3f0000000036ab0a403333134000000000"
   },
@@ -3922,7 +3922,7 @@
     "PokedexWeightKg": "39,00",
     "HeightStdDev": "0,16",
     "WeightStdDev": "4,88",
-    "CandyFamily": "118_GOLDEEN",
+    "CandyFamily": "GOLDEEN",
     "CandyToEvolve": "0",
     "AnimTime": "00006040daac2a3f6d56d53f2653553f000000006d56d53f0000004000000000"
   },
@@ -3955,7 +3955,7 @@
     "PokedexWeightKg": "34,50",
     "HeightStdDev": "0,10",
     "WeightStdDev": "4,31",
-    "CandyFamily": "120_STARYU",
+    "CandyFamily": "STARYU",
     "CandyToEvolve": "50",
     "AnimTime": "93a9aa3fdaac2a3f6d56d53f93a9ea3f000000006d56d53f0000004000000040"
   },
@@ -3988,13 +3988,13 @@
     "PokedexWeightKg": "80,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "10,00",
-    "CandyFamily": "120_STARYU",
+    "CandyFamily": "STARYU",
     "CandyToEvolve": "0",
     "AnimTime": "c6dcdd3fdaac2a3f07f0ee3f666606400000000036ab2a403333f33f66660640"
   },
   {
     "PkMn": "122",
-    "Identifier": "MR_MIME",
+    "Identifier": "MRMIME",
     "EvolvesFrom": "0",
     "EvolvesTo": "0",
     "EvoChainID": "57",
@@ -4021,7 +4021,7 @@
     "PokedexWeightKg": "54,50",
     "HeightStdDev": "0,16",
     "WeightStdDev": "6,81",
-    "CandyFamily": "122_MR_MIME",
+    "CandyFamily": "MRMIME",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a402653553f93a9ea3f0000004000000000000000409621224000000000"
   },
@@ -4054,7 +4054,7 @@
     "PokedexWeightKg": "56,00",
     "HeightStdDev": "0,19",
     "WeightStdDev": "7,00",
-    "CandyFamily": "123_SCYTHER",
+    "CandyFamily": "SCYTHER",
     "CandyToEvolve": "0",
     "AnimTime": "c6dcdd3fdaac2a3f6d56d53fdaac2a3f00000000000000400000004000000000"
   },
@@ -4087,7 +4087,7 @@
     "PokedexWeightKg": "40,60",
     "HeightStdDev": "0,17",
     "WeightStdDev": "5,07",
-    "CandyFamily": "124_JYNX",
+    "CandyFamily": "JYNX",
     "CandyToEvolve": "0",
     "AnimTime": "9d111140daac2a3f6d56d53f3a23e23f0000000007f0ee3f0000004000000000"
   },
@@ -4120,7 +4120,7 @@
     "PokedexWeightKg": "30,00",
     "HeightStdDev": "0,14",
     "WeightStdDev": "3,75",
-    "CandyFamily": "125_ELECTABUZZ",
+    "CandyFamily": "ELECTABUZZ",
     "CandyToEvolve": "0",
     "AnimTime": "0000c03fdaac2a3f0000c03f0000c03f000000006d56d53f93a9aa3f00000000"
   },
@@ -4153,7 +4153,7 @@
     "PokedexWeightKg": "44,50",
     "HeightStdDev": "0,16",
     "WeightStdDev": "5,56",
-    "CandyFamily": "126_MAGMAR",
+    "CandyFamily": "MAGMAR",
     "CandyToEvolve": "0",
     "AnimTime": "6d56d53fdaac2a3f6d56d53f93a9ea3f00000041000000400000004000000000"
   },
@@ -4186,7 +4186,7 @@
     "PokedexWeightKg": "55,00",
     "HeightStdDev": "0,19",
     "WeightStdDev": "6,88",
-    "CandyFamily": "127_PINSIR",
+    "CandyFamily": "PINSIR",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f000000000000004093a9aa3f00000000"
   },
@@ -4219,7 +4219,7 @@
     "PokedexWeightKg": "88,40",
     "HeightStdDev": "0,17",
     "WeightStdDev": "11,05",
-    "CandyFamily": "128_TAUROS",
+    "CandyFamily": "TAUROS",
     "CandyToEvolve": "0",
     "AnimTime": "ca541540daac2a3f6d56d53f00000040000000006d56d53fcdcccc3f00000000"
   },
@@ -4252,7 +4252,7 @@
     "PokedexWeightKg": "10,00",
     "HeightStdDev": "0,11",
     "WeightStdDev": "1,25",
-    "CandyFamily": "129_MAGIKARP",
+    "CandyFamily": "MAGIKARP",
     "CandyToEvolve": "400",
     "AnimTime": "93a9aa3fdaac2a3f000000000000c03f00000000000000000000803f00000000"
   },
@@ -4285,7 +4285,7 @@
     "PokedexWeightKg": "235,00",
     "HeightStdDev": "0,81",
     "WeightStdDev": "29,38",
-    "CandyFamily": "129_MAGIKARP",
+    "CandyFamily": "MAGIKARP",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f0000c03fdaac2a3f00000000ca5415400000004000000040"
   },
@@ -4318,7 +4318,7 @@
     "PokedexWeightKg": "220,00",
     "HeightStdDev": "0,31",
     "WeightStdDev": "27,50",
-    "CandyFamily": "131_LAPRAS",
+    "CandyFamily": "LAPRAS",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f6d56d53f3333f33f000000009a99194000004040acaa2a40"
   },
@@ -4351,7 +4351,7 @@
     "PokedexWeightKg": "4,00",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,50",
-    "CandyFamily": "132_DITTO",
+    "CandyFamily": "DITTO",
     "CandyToEvolve": "0",
     "AnimTime": "00000000daac2a3f6d56d53f6d56d53f00000000000000400000004000000000"
   },
@@ -4384,7 +4384,7 @@
     "PokedexWeightKg": "6,50",
     "HeightStdDev": "0,04",
     "WeightStdDev": "0,81",
-    "CandyFamily": "133_EEVEE",
+    "CandyFamily": "EEVEE",
     "CandyToEvolve": "25",
     "AnimTime": "6ade1d40daac2a3fd044044093a9ea3f00000000ca5415400de05d3fdbdd9d3f"
   },
@@ -4417,7 +4417,7 @@
     "PokedexWeightKg": "29,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "3,63",
-    "CandyFamily": "133_EEVEE",
+    "CandyFamily": "EEVEE",
     "CandyToEvolve": "0",
     "AnimTime": "07f0ee3fdaac2a3f3333f33f9a99d93f0000000000000040fd87084087880840"
   },
@@ -4450,7 +4450,7 @@
     "PokedexWeightKg": "24,50",
     "HeightStdDev": "0,10",
     "WeightStdDev": "3,06",
-    "CandyFamily": "133_EEVEE",
+    "CandyFamily": "EEVEE",
     "CandyToEvolve": "0",
     "AnimTime": "fd872840daac2a3f6076f73fca5415400000000036ab2a4093a9aa3ff2eeee3f"
   },
@@ -4483,7 +4483,7 @@
     "PokedexWeightKg": "25,00",
     "HeightStdDev": "0,11",
     "WeightStdDev": "3,13",
-    "CandyFamily": "133_EEVEE",
+    "CandyFamily": "EEVEE",
     "CandyToEvolve": "0",
     "AnimTime": "00002040daac2a3f6d56d53fd044044000000000ca5415400000803facaa2a40"
   },
@@ -4516,7 +4516,7 @@
     "PokedexWeightKg": "36,50",
     "HeightStdDev": "0,10",
     "WeightStdDev": "4,56",
-    "CandyFamily": "137_PORYGON",
+    "CandyFamily": "PORYGON",
     "CandyToEvolve": "0",
     "AnimTime": "93a9ea3fdaac2a3f00000000daac2a3f0000000036ab2a40cdcccc3f00000000"
   },
@@ -4549,7 +4549,7 @@
     "PokedexWeightKg": "7,50",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,94",
-    "CandyFamily": "138_OMANYTE",
+    "CandyFamily": "OMANYTE",
     "CandyToEvolve": "50",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f00000000ca54154036ab2a4000000000"
   },
@@ -4582,7 +4582,7 @@
     "PokedexWeightKg": "35,00",
     "HeightStdDev": "0,13",
     "WeightStdDev": "4,38",
-    "CandyFamily": "138_OMANYTE",
+    "CandyFamily": "OMANYTE",
     "CandyToEvolve": "0",
     "AnimTime": "00000040daac2a3f6d56d53f93a9ea3f000000000000004036ab2a4000000000"
   },
@@ -4615,7 +4615,7 @@
     "PokedexWeightKg": "11,50",
     "HeightStdDev": "0,06",
     "WeightStdDev": "1,44",
-    "CandyFamily": "140_KABUTO",
+    "CandyFamily": "KABUTO",
     "CandyToEvolve": "50",
     "AnimTime": "00000000daac2a3f000000000000c03f00000000000000400000004000000000"
   },
@@ -4648,7 +4648,7 @@
     "PokedexWeightKg": "40,50",
     "HeightStdDev": "0,16",
     "WeightStdDev": "5,06",
-    "CandyFamily": "140_KABUTO",
+    "CandyFamily": "KABUTO",
     "CandyToEvolve": "0",
     "AnimTime": "36ab0a40daac2a3f6d56d53fcdcccc3f00000000cdcc0c409a99993f00000000"
   },
@@ -4681,7 +4681,7 @@
     "PokedexWeightKg": "59,00",
     "HeightStdDev": "0,22",
     "WeightStdDev": "7,38",
-    "CandyFamily": "142_AERODACTYL",
+    "CandyFamily": "AERODACTYL",
     "CandyToEvolve": "0",
     "AnimTime": "36ab0a406666663f0000c03f8cb93b3f000000000000004093a9aa3f5855d53f"
   },
@@ -4714,7 +4714,7 @@
     "PokedexWeightKg": "460,00",
     "HeightStdDev": "0,26",
     "WeightStdDev": "57,50",
-    "CandyFamily": "143_SNORLAX",
+    "CandyFamily": "SNORLAX",
     "CandyToEvolve": "0",
     "AnimTime": "9a991940daac2a3f93a9ea3f6d56d53f00000000000020400000204054551540"
   },
@@ -4747,7 +4747,7 @@
     "PokedexWeightKg": "55,40",
     "HeightStdDev": "0,21",
     "WeightStdDev": "6,93",
-    "CandyFamily": "144_ARTICUNO",
+    "CandyFamily": "ARTICUNO",
     "CandyToEvolve": "0",
     "AnimTime": "d04404400000803f6d56d53fdaac2a3f000000009a99194093a9aa3fa8aaaa3f"
   },
@@ -4780,7 +4780,7 @@
     "PokedexWeightKg": "52,60",
     "HeightStdDev": "0,20",
     "WeightStdDev": "6,57",
-    "CandyFamily": "145_ZAPDOS",
+    "CandyFamily": "ZAPDOS",
     "CandyToEvolve": "0",
     "AnimTime": "cdcccc3f2653553f0000c03f2653553f00000000000000400000803f5855d53f"
   },
@@ -4813,7 +4813,7 @@
     "PokedexWeightKg": "60,00",
     "HeightStdDev": "0,25",
     "WeightStdDev": "7,50",
-    "CandyFamily": "146_MOLTRES",
+    "CandyFamily": "MOLTRES",
     "CandyToEvolve": "0",
     "AnimTime": "63ee2e4093a9aa3f000000406d56953f00000000000020406666e63f6666e63f"
   },
@@ -4846,7 +4846,7 @@
     "PokedexWeightKg": "3,30",
     "HeightStdDev": "0,22",
     "WeightStdDev": "0,41",
-    "CandyFamily": "147_DRATINI",
+    "CandyFamily": "DRATINI",
     "CandyToEvolve": "25",
     "AnimTime": "6d56d53fdaac2a3f93a9ea3f6076b73f0000000000000040cdcccc3f00000000"
   },
@@ -4879,7 +4879,7 @@
     "PokedexWeightKg": "16,50",
     "HeightStdDev": "0,50",
     "WeightStdDev": "2,06",
-    "CandyFamily": "147_DRATINI",
+    "CandyFamily": "DRATINI",
     "CandyToEvolve": "100",
     "AnimTime": "cdcccc3fdaac2a3f6d56d53f0000004000000000000020400000004000000040"
   },
@@ -4912,7 +4912,7 @@
     "PokedexWeightKg": "210,00",
     "HeightStdDev": "0,28",
     "WeightStdDev": "26,25",
-    "CandyFamily": "147_DRATINI",
+    "CandyFamily": "DRATINI",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f6d56d53f2653553f0000000036ab2a400000c03f0000c03f"
   },
@@ -4945,7 +4945,7 @@
     "PokedexWeightKg": "122,00",
     "HeightStdDev": "0,25",
     "WeightStdDev": "15,25",
-    "CandyFamily": "150_MEWTWO",
+    "CandyFamily": "MEWTWO",
     "CandyToEvolve": "0",
     "AnimTime": "93a9aa3fdaac2a3f6d56d53f0000004000000000000000400000404000004040"
   },
@@ -4978,7 +4978,7 @@
     "PokedexWeightKg": "4,00",
     "HeightStdDev": "0,05",
     "WeightStdDev": "0,50",
-    "CandyFamily": "151_MEW",
+    "CandyFamily": "MEW",
     "CandyToEvolve": "0",
     "AnimTime": "36ab2a40daac2a3f6d56d53fdaac2a3f0000000036ab2a406d56d53f00000040"
   }
